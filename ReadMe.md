@@ -1,5 +1,8 @@
 # LogicFlow
 
+[![Build status](https://ci.appveyor.com/api/projects/status/hq2hue3xx6d6w0xp?svg=true)](https://ci.appveyor.com/project/tnv/logicflow)
+[![NuGet Pre Release](https://img.shields.io/nuget/vpre/LogicFlow.svg?style=flat)](https://www.nuget.org/packages/LogicFlow/)
+
 LogicFlow is a library that allows to model complex logic as a flow of simple, independently testable steps. These steps can be combined using several operators to form complex flows. One level up, these operators also apply to the composition of flows, allowing even more reusability of logic.
 
 ## Installation
